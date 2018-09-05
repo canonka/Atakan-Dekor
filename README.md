@@ -13,5 +13,5 @@
 <br/>
  <p><b><a href="https://github.com/canonka/Atakan-Dekor/archive/master.zip">Download Project</a></b></p>
 <br/>
-<p>Created by Batuhan SENER </p>
+<p><b>Created by Batuhan ŞENER</b></p>
 <br/>
