@@ -7,8 +7,8 @@
 
 <table style="width:100%">
   <tr>
-    <th><img src="https://github.com/canonka/Atakan-Dekor/blob/master/img/Anasayfa.jpg" width="100%"></th>
-    <th><img src="https://github.com/canonka/Atakan-Dekor/blob/master/img/iletisim.jpg" width="100%"></th> 
+    <td><img src="https://github.com/canonka/Atakan-Dekor/blob/master/img/Anasayfa.jpg" width="100%"></td>
+    <td><img src="https://github.com/canonka/Atakan-Dekor/blob/master/img/iletisim.jpg" width="100%"></td> 
   </tr>
   <tr>
     <td><img src="https://github.com/canonka/Atakan-Dekor/blob/master/img/Referanslarimiz.jpg" width="100%"></td>
