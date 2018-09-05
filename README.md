@@ -4,12 +4,20 @@
 <br/>
   <p>LinkedIn : https://www.linkedin.com/in/batuhansener3553/</p>
 <br/>
+
  <div >
-  <img src="https://github.com/canonka/Atakan-Dekor/blob/master/img/Anasayfa.jpg" width="24%">
-  <img src="https://github.com/canonka/Atakan-Dekor/blob/master/img/Hakkimizda.jpg" width="24%">
-  <img src="https://github.com/canonka/Atakan-Dekor/blob/master/img/Referanslarimiz.jpg" width="24%">
-  <img src="https://github.com/canonka/Atakan-Dekor/blob/master/img/iletisim.jpg" width="24%">
+  <table style="width:100%">
+  <tr>
+    <th><img src="https://github.com/canonka/Atakan-Dekor/blob/master/img/Anasayfa.jpg" width="100%"></th>
+    <th><img src="https://github.com/canonka/Atakan-Dekor/blob/master/img/Hakkimizda.jpg" width="100%"></th> 
+  </tr>
+  <tr>
+    <td><img src="https://github.com/canonka/Atakan-Dekor/blob/master/img/Referanslarimiz.jpg" width="100%"></td>
+    <td><img src="https://github.com/canonka/Atakan-Dekor/blob/master/img/iletisim.jpg" width="100%"></td> 
+  </tr>
+</table> 
  </div>
+ 
 <br/>
  <p><b><a href="https://github.com/canonka/Atakan-Dekor/archive/master.zip">Download Project</a></b></p>
 <br/>
