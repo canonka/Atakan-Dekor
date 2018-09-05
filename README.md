@@ -1,3 +1,3 @@
 # Atakandekor
-Created by Batuhan SENER
-LinkedIn : https://www.linkedin.com/in/batuhansener3553/
+<p>Created by Batuhan SENER </p>
+<p>LinkedIn : https://www.linkedin.com/in/batuhansener3553/</p>
