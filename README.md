@@ -5,6 +5,6 @@
 <img src="https://github.com/canonka/Atakan-Dekor/blob/master/img/Anasayfa.jpg" width="25%">
 <img src="https://github.com/canonka/Atakan-Dekor/blob/master/img/Hakkimizda.jpg" width="25%">
 <img src="https://github.com/canonka/Atakan-Dekor/blob/master/img/Referanslarimiz.jpg" width="25%">
+ <img src="https://github.com/canonka/Atakan-Dekor/blob/master/img/iletisim.jpg" width="25%">
 <img src="https://github.com/canonka/Atakan-Dekor/blob/master/img/Vitrindekorasyon.jpg" width="25%">
-<img src="https://github.com/canonka/Atakan-Dekor/blob/master/img/iletisim.jpg" width="25%">
  </div>
