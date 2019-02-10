@@ -10,7 +10,7 @@
 			header ('Refresh: 4; url=index.php');
           exit;
         }
-        $secretKey = "6LfnyEgUAAAAACOzV9t-_c30Kx7sCjFMK0lRCtpm";
+        $secretKey = "12312423543543643654";
         $ip = $_SERVER['REMOTE_ADDR'];
         $response=file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=".$secretKey."&response=".$captcha."&remoteip=".$ip);
         $responseKeys = json_decode($response,true);
@@ -39,7 +39,7 @@ $mail->IsHTML(true);
 $mail->SetLanguage("tr", "phpmailer/language");
 $mail->CharSet  ="utf-8";
 $mail->Username = "iletisim@atakan-dekor.com";
-$mail->Password = "Laz3553.M";
+$mail->Password = "asfkjhakjfas";
 $mail->SetFrom("iletisim@atakan-dekor.com", $email);
 $mail->AddAddress("atakan-dekor@hotmail.com");
 $mail->Subject = $konu;
