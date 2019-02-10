@@ -2,7 +2,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <?php
 require_once "recaptchalib.php";
-$secret = "6LfnyEgUAAAAACOzV9t-_c30Kx7sCjFMK0lRCtpm";
+$secret = "5465464fa4s4fa5s4dasd";
 $response = null;
 $reCaptcha = new ReCaptcha($secret);
 if ($_POST["g-recaptcha-response"]) {
