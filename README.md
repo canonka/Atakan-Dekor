@@ -1,6 +1,5 @@
 # Atakandekor
-<br/>
-  <p>Site Link : https://www.atakan-dekor.com/</p>
+
 <br/>
   <p>LinkedIn : https://www.linkedin.com/in/batuhansener3553/</p>
 <br/>
