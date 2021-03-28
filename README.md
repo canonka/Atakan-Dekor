@@ -1,7 +1,7 @@
 # Atakandekor
 
 <br/>
-  <p>LinkedIn : https://linkedin.com/in/senerbatuhan/</p>
+  <a href"https://linkedin.com/in/senerbatuhan/">LinkedIn</a>
 <br/>
 
 <table style="width:100%">
