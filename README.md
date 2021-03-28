@@ -1,6 +1,6 @@
 # Atakandekor
 
-
+My first web project with PHP and HTML.
 <table style="width:100%">
   <tr>
     <td><img src="https://github.com/canonka/Atakan-Dekor/blob/master/img/Anasayfa.jpg" width="100%"></td>
