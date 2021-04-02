@@ -12,9 +12,8 @@ My first web project with PHP and HTML.
     <td><img src="https://github.com/canonka/Atakan-Dekor/blob/master/img/Hakkimizda.jpg" width="100%"></td> 
   </tr>
 </table> 
+</hr>
 
 <br/>
-  <a href="https://linkedin.com/in/senerbatuhan/">LinkedIn</a>
-<br/>
-<p><b>Created by Batuhan ŞENER</b></p>
+<p><b>Created by <a href="https://linkedin.com/in/senerbatuhan/">Batuhan ŞENER</a></b></p>
 <br/>
