@@ -12,7 +12,7 @@ My first web project with PHP and HTML.
     <td><img src="https://github.com/canonka/Atakan-Dekor/blob/master/img/Hakkimizda.jpg" width="100%"></td> 
   </tr>
 </table> 
-</hr>
+<hr>
 
 <br/>
 <p><b>Created by <a href="https://linkedin.com/in/senerbatuhan/">Batuhan ŞENER</a></b></p>
