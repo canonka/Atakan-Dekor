@@ -1,6 +1,7 @@
 # Atakandekor
 
 My first web project with PHP and HTML.
+<h2>Not: It's Non-Responsive because i wasn't learn "what is responsive web design?".</h2>
 <table style="width:100%">
   <tr>
     <td><img src="https://github.com/canonka/Atakan-Dekor/blob/master/img/Anasayfa.jpg" width="100%"></td>
